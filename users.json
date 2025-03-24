@@ -1,0 +1,587 @@
+[
+    {
+        "name": "Ethan Hunt",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "Low",
+        "annual_income": 124960,
+        "investment_duration_years": 21,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "America": 55,
+            "Asia": 22
+        },
+        "stocks": [
+            {
+                "name": "zoom",
+                "number": 25
+            },
+            {
+                "name": "amazon",
+                "number": 50
+            },
+            {
+                "name": "meta",
+                "number": 30
+            },
+            {
+                "name": "microsoft",
+                "number": 15
+            },
+            {
+                "name": "apple",
+                "number": 17
+            }
+        ],
+        "value": 33044,
+        "file": "ethan_hunt.json"
+    },
+    {
+        "name": "James Bond",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "Low",
+        "annual_income": 155799,
+        "investment_duration_years": 11,
+        "preferred_company_type": [
+            "Small Cap",
+            "Mid Cap"
+        ],
+        "preferred_investment_regions": {
+            "Asia": 62,
+            "Europe": 30
+        },
+        "stocks": [
+            {
+                "name": "amd",
+                "number": 6
+            },
+            {
+                "name": "nvidia",
+                "number": 6
+            },
+            {
+                "name": "google",
+                "number": 49
+            },
+            {
+                "name": "meta",
+                "number": 33
+            },
+            {
+                "name": "amazon",
+                "number": 20
+            },
+            {
+                "name": "microsoft",
+                "number": 3
+            }
+        ],
+        "value": 38041,
+        "file": "james_bond.json"
+    },
+    {
+        "name": "Lara Croft",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "Low",
+        "annual_income": 120918,
+        "investment_duration_years": 13,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "Europe": 19,
+            "Asia": 52,
+            "Australia": 55
+        },
+        "stocks": [
+            {
+                "name": "zoom",
+                "number": 45
+            },
+            {
+                "name": "amazon",
+                "number": 46
+            },
+            {
+                "name": "meta",
+                "number": 38
+            },
+            {
+                "name": "apple",
+                "number": 22
+            },
+            {
+                "name": "nvidia",
+                "number": 32
+            }
+        ],
+        "value": 41115,
+        "file": "lara_croft.json"
+    },
+    {
+        "name": "Tony Stark",
+        "investment_purpose": "Real Estate Investment",
+        "risk_appetite": "Low",
+        "annual_income": 185331,
+        "investment_duration_years": 9,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "Australia": 66,
+            "America": 34
+        },
+        "stocks": [
+            {
+                "name": "apple",
+                "number": 21
+            },
+            {
+                "name": "nvidia",
+                "number": 39
+            },
+            {
+                "name": "meta",
+                "number": 15
+            },
+            {
+                "name": "tesla",
+                "number": 2
+            },
+            {
+                "name": "amazon",
+                "number": 20
+            }
+        ],
+        "value": 19363,
+        "file": "tony_stark.json"
+    },
+    {
+        "name": "Bruce Wayne",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "Moderate",
+        "annual_income": 52573,
+        "investment_duration_years": 9,
+        "preferred_company_type": [
+            "Small Cap",
+            "Mid Cap"
+        ],
+        "preferred_investment_regions": {
+            "America": 49,
+            "Australia": 24,
+            "Asia": 62
+        },
+        "stocks": [
+            {
+                "name": "meta",
+                "number": 30
+            },
+            {
+                "name": "amd",
+                "number": 19
+            },
+            {
+                "name": "nvidia",
+                "number": 26
+            },
+            {
+                "name": "intel",
+                "number": 6
+            },
+            {
+                "name": "microsoft",
+                "number": 7
+            }
+        ],
+        "value": 19580,
+        "file": "bruce_wayne.json"
+    },
+    {
+        "name": "Natasha Romanoff",
+        "investment_purpose": "Business Expansion",
+        "risk_appetite": "Low",
+        "annual_income": 108235,
+        "investment_duration_years": 12,
+        "preferred_company_type": [
+            "Small Cap",
+            "Mid Cap"
+        ],
+        "preferred_investment_regions": {
+            "Europe": 27,
+            "Asia": 27
+        },
+        "stocks": [
+            {
+                "name": "microsoft",
+                "number": 14
+            },
+            {
+                "name": "google",
+                "number": 16
+            },
+            {
+                "name": "amazon",
+                "number": 50
+            },
+            {
+                "name": "tesla",
+                "number": 16
+            },
+            {
+                "name": "nvidia",
+                "number": 6
+            }
+        ],
+        "value": 32050,
+        "file": "natasha_romanoff.json"
+    },
+    {
+        "name": "Clark Kent",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "Moderate",
+        "annual_income": 171185,
+        "investment_duration_years": 15,
+        "preferred_company_type": [
+            "Mid Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "America": 51,
+            "Australia": 52,
+            "Asia": 34,
+            "Europe": 54
+        },
+        "stocks": [
+            {
+                "name": "tesla",
+                "number": 48
+            },
+            {
+                "name": "microsoft",
+                "number": 37
+            },
+            {
+                "name": "amazon",
+                "number": 1
+            }
+        ],
+        "value": 42406,
+        "file": "clark_kent.json"
+    },
+    {
+        "name": "Peter Parker",
+        "investment_purpose": "Wealth Growth",
+        "risk_appetite": "High",
+        "annual_income": 59304,
+        "investment_duration_years": 26,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "Asia": 44,
+            "America": 46,
+            "Australia": 62,
+            "Europe": 63
+        },
+        "stocks": [
+            {
+                "name": "amazon",
+                "number": 5
+            },
+            {
+                "name": "meta",
+                "number": 8
+            },
+            {
+                "name": "nvidia",
+                "number": 38
+            },
+            {
+                "name": "intel",
+                "number": 41
+            },
+            {
+                "name": "tesla",
+                "number": 26
+            },
+            {
+                "name": "google",
+                "number": 2
+            }
+        ],
+        "value": 21420,
+        "file": "peter_parker.json"
+    },
+    {
+        "name": "Diana Prince",
+        "investment_purpose": "Education Fund",
+        "risk_appetite": "Moderate",
+        "annual_income": 90172,
+        "investment_duration_years": 27,
+        "preferred_company_type": [
+            "Mid Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "Europe": 21,
+            "America": 58,
+            "Australia": 15,
+            "Asia": 26
+        },
+        "stocks": [
+            {
+                "name": "intel",
+                "number": 38
+            },
+            {
+                "name": "tesla",
+                "number": 34
+            },
+            {
+                "name": "zoom",
+                "number": 38
+            },
+            {
+                "name": "microsoft",
+                "number": 21
+            }
+        ],
+        "value": 34958,
+        "file": "diana_prince.json"
+    },
+    {
+        "name": "Steve Rogers",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "High",
+        "annual_income": 95046,
+        "investment_duration_years": 27,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "America": 61,
+            "Asia": 30
+        },
+        "stocks": [
+            {
+                "name": "amazon",
+                "number": 11
+            },
+            {
+                "name": "amd",
+                "number": 29
+            },
+            {
+                "name": "nvidia",
+                "number": 19
+            },
+            {
+                "name": "meta",
+                "number": 40
+            },
+            {
+                "name": "zoom",
+                "number": 24
+            }
+        ],
+        "value": 40540,
+        "file": "steve_rogers.json"
+    },
+    {
+        "name": "Wade Wilson",
+        "investment_purpose": "Real Estate Investment",
+        "risk_appetite": "High",
+        "annual_income": 142783,
+        "investment_duration_years": 27,
+        "preferred_company_type": [
+            "Small Cap",
+            "Mid Cap"
+        ],
+        "preferred_investment_regions": {
+            "Australia": 16,
+            "Europe": 60,
+            "Asia": 43
+        },
+        "stocks": [
+            {
+                "name": "nvidia",
+                "number": 38
+            },
+            {
+                "name": "amd",
+                "number": 7
+            },
+            {
+                "name": "apple",
+                "number": 9
+            },
+            {
+                "name": "intel",
+                "number": 50
+            },
+            {
+                "name": "microsoft",
+                "number": 49
+            }
+        ],
+        "value": 33034,
+        "file": "wade_wilson.json"
+    },
+    {
+        "name": "Jean Grey",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "High",
+        "annual_income": 137260,
+        "investment_duration_years": 23,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "Asia": 43,
+            "Australia": 35
+        },
+        "stocks": [
+            {
+                "name": "intel",
+                "number": 16
+            },
+            {
+                "name": "microsoft",
+                "number": 32
+            },
+            {
+                "name": "nvidia",
+                "number": 15
+            },
+            {
+                "name": "google",
+                "number": 13
+            },
+            {
+                "name": "apple",
+                "number": 5
+            },
+            {
+                "name": "amd",
+                "number": 12
+            }
+        ],
+        "value": 15055,
+        "file": "jean_grey.json"
+    },
+    {
+        "name": "Charles Xavier",
+        "investment_purpose": "Real Estate Investment",
+        "risk_appetite": "Low",
+        "annual_income": 144899,
+        "investment_duration_years": 9,
+        "preferred_company_type": [
+            "Mid Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "America": 55,
+            "Europe": 20,
+            "Australia": 25
+        },
+        "stocks": [
+            {
+                "name": "amd",
+                "number": 2
+            },
+            {
+                "name": "google",
+                "number": 43
+            },
+            {
+                "name": "zoom",
+                "number": 39
+            },
+            {
+                "name": "amazon",
+                "number": 21
+            }
+        ],
+        "value": 29649,
+        "file": "charles_xavier.json"
+    },
+    {
+        "name": "Logan Howlett",
+        "investment_purpose": "Retirement Planning",
+        "risk_appetite": "High",
+        "annual_income": 93168,
+        "investment_duration_years": 9,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "Asia": 54,
+            "Australia": 49,
+            "America": 28
+        },
+        "stocks": [
+            {
+                "name": "intel",
+                "number": 38
+            },
+            {
+                "name": "apple",
+                "number": 32
+            },
+            {
+                "name": "google",
+                "number": 30
+            },
+            {
+                "name": "nvidia",
+                "number": 25
+            },
+            {
+                "name": "tesla",
+                "number": 6
+            }
+        ],
+        "value": 49299,
+        "file": "logan_howlett.json"
+    },
+    {
+        "name": "Selina Kyle",
+        "investment_purpose": "Wealth Growth",
+        "risk_appetite": "High",
+        "annual_income": 73429,
+        "investment_duration_years": 5,
+        "preferred_company_type": [
+            "Small Cap",
+            "Large Cap"
+        ],
+        "preferred_investment_regions": {
+            "Asia": 57,
+            "Australia": 51,
+            "Europe": 52
+        },
+        "stocks": [
+            {
+                "name": "zoom",
+                "number": 9
+            },
+            {
+                "name": "microsoft",
+                "number": 22
+            },
+            {
+                "name": "google",
+                "number": 2
+            }
+        ],
+        "value": 9310,
+        "file": "selina_kyle.json"
+    }
+]
